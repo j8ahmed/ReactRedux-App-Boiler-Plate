@@ -1,3 +1,7 @@
+A template for my react apps using redux state management. It is based off the create react app with the addition of Redux dependencies. All information below is from the original Create React App repository.
+
+--------------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
